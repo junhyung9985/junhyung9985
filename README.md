@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-Hello there! I'm Junhyung Kim. I'm currently studying Computer Science at Handong Global University.
+👋 Hello there! I'm Junhyung Kim. I'm currently studying Computer Science at Handong Global University.<br />
 My interests lies in various subjects in CS fields, such as AI/DL, Problem Solving, Algorithms and much more!
 
 <!--
