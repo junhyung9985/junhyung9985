@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Junhyung9985's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyung9985)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhyung9985)](https://solved.ac/junhyung9985/)
 
 ### Techincal Skills
 #### Language
@@ -28,4 +27,6 @@ Here are some ideas to get you started:
 #### Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-
+### Problem Solving & Competitive Programming
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhyung9985)](https://solved.ac/junhyung9985/) <br />
+![](https://raw.githubusercontent.com/junhyung9985/cf-stats/main/output/light_card.svg)
